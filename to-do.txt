@@ -16,3 +16,9 @@ Test 123456
 Test
 12345678
 2323rqwdfwf
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
+
+wfawfafassd
+>>>>>>> Stashed changes
