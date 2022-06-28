@@ -11,4 +11,8 @@ MY TO-DO LIST
 9. New Test Branch with Changing File.
 11.Test Test Test 123
 12.Test Test Test
+<<<<<<< Updated upstream
 Test 123456
+=======
+Test
+>>>>>>> Stashed changes
