@@ -16,4 +16,8 @@ Test 123456
 =======
 Test
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 12345678
+=======
+2323rqwdfwf
+>>>>>>> Stashed changes
