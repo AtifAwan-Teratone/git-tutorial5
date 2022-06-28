@@ -9,8 +9,5 @@ MY TO-DO LIST
 7. Practice code 
 8. New Branch Created.
 9. New Test Branch with Changing File.
-<<<<<<< Updated upstream
-10.Test Test Test 123
-=======
-10.Test Test Test
->>>>>>> Stashed changes
+11.Test Test Test 123
+12.Test Test Test
